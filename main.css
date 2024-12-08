@@ -34,7 +34,7 @@ body {
 }
 
 .titulo {
-  animation: fadeIn 1s ease-in-out;
+  animation: fadeIn 4s ease-in-out;
 }
 
 @keyframes fadeIn {
